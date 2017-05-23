@@ -26,6 +26,7 @@ DOCKER_PUBLISH_FOLDER="./obj/Docker/publish"
 VERSION=$(date +"%y%m.%d.%H.%M")
 DOCKER_IMAGE_ID=vkhazin/dotnetapi:$VERSION
 
+# Aws Credentials are stored in pipeline environment variables
 S3_BUCKET_NAME="poc-deploy"
 S3_BUCKET_KEY="dotnetapi"
 
