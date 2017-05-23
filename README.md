@@ -2,6 +2,7 @@
 
 # TL;DR #
 * Needed to build a proof-of-concept for CD/CI using [dotnet core web api](https://www.microsoft.com/net/core)
+* Output of the build docker image uploaded to [S3 bucket](https://aws.amazon.com/documentation/s3/)
 * Experimented with [Bibucket pipelines](https://bitbucket.org/product/features/pipelines)
 * For Pipelines a custom docker image was needed to integrate Microsoft dotnet core sdk with Aws Cli.
 * Dockerfile custom image was published to [hub.docker.com](https://hub.docker.com/r/vkhazin/dotnetcore-build/)
