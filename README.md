@@ -10,4 +10,4 @@
 docker pull vkhazin/dotnetcore-build
 
 # How to use #
-* See Bitbucket repo for details: https://bitbucket.org/vk-smith/dotnetapi/src/master/README.md
+* See [Bitbucket repo](https://bitbucket.org/vk-smith/dotnetapi/src/master/README.md) for details
