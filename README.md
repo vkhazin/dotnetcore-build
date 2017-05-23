@@ -1,4 +1,4 @@
-# Image for dotnetcore compilation with Aws cli #
+# Image for Microsoft .Net Core CD/CI #
 
 # TL;DR #
 * Needed to build a proof-of-concept for CD/CI using [dotnet core web api](https://www.microsoft.com/net/core)
